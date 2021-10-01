@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pri{
+    text-align: center;
+    font-size: 15px;
+}
+/*NAV*/
+.nav{
+    background-color: rgb(206, 198, 198);
+    padding: 15px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+li{
+    display: inline-block;
+}
+/*SEGUN*/
+.segun{
+    background-color: rgb(206, 198, 198);
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 200px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+/*TERCER*/
+.tercer{
+    background-color: rgb(206, 198, 198);
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+}
+.colum{
+    flex-basis: 40%;
+    text-align: center;
+    padding-bottom: 200px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(206, 198, 198);
+    margin-left: 100px;
+    margin-right: 100px;
+}
